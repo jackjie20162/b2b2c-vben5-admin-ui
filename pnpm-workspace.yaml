@@ -208,7 +208,7 @@ catalog:
   zod-defaults: 0.1.3
   zod-i18n-map: ^2.27.0
   remeda: ^2.39.0
-  i18next: ^25.10.10
+  i18next: ^26.5.10
   vue-json-pretty: ^2.6.0
   '@tiptap/pm': ^3.27.1
   knip: ^6.23.0
